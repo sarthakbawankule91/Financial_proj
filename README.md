@@ -58,8 +58,8 @@ Customer segmentation
 Clean and interactive dashboard design
 
 📷 Dashboard Preview   
-(Add your dashboard screenshot here)
-Example:(dashboard.png)
+
+Example:https://github.com/sarthakbawankule91/Financial_proj/blob/main/bank_churn.jpeg
 
 🚀 Business Value  
 This dashboard helps banks and financial institutions to:
