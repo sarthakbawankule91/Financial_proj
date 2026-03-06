@@ -20,20 +20,24 @@ Inactive Members: 4,849
 Retained Customers: 7,963
 Exited Customers: 2,037
 This section provides a quick overview of customer engagement and retention.
+
 2️⃣ Customer Activity Trend    
 A bar chart visualizing Active Members vs Inactive Members by Year helps understand how customer activity changes over time.
 Key Insight:
 Active members show a gradual increase over the years.
+
 3️⃣ Customer Exit Analysis    
 A line chart tracks Exit Customers by Month and compares it with Previous Customer Exit.
 Key Insight:
 Some months show higher exit rates, indicating potential churn patterns.
+
 4️⃣ Credit Card Holder Analysis    
 A pie chart compares:
 Credit Card Holders
 Non-Credit Card Holders
 Key Insight:
 Around 70% of customers hold credit cards, showing strong adoption.
+
 5️⃣ Gender-Based Analysis    
 A donut chart shows Non-Credit Card Holders by Gender.
 Key Insight:
