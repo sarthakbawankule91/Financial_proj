@@ -13,6 +13,7 @@ Understand gender-wise customer distribution
 Track customer activity over time
 
 📈 Dashboard Insights
+
 1️⃣ Customer Overview    
 Total Customers: 10,000
 Active Members: 5,151
